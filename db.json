@@ -1,0 +1,345 @@
+{
+  "apisanpham": [
+    {
+      "id": 1,
+      "name": "Áo thun trẻ em hình chiếc xe",
+      "price": "130.000",
+      "status": "Hàng tồn kho",
+      "image": " https://i.imgur.com/tFcDPxS.png",
+      "category": "Áo trẻ em",
+      "description": ""
+    },
+    {
+      "id": 2,
+      "name": "Áo thun name xám có cổ",
+      "price": "130.000",
+      "status": "Hàng tồn kho",
+      "image": "https://i.imgur.com/oYmRd1U.png",
+      "category": "Áo nam",
+      "description": ""
+    },
+    {
+      "id": 3,
+      "name": "Áo thun nữ màu vàng cute",
+      "price": "140.000",
+      "status": "Hàng tồn kho",
+      "image": "https://i.imgur.com/M84HmrN.png",
+      "category": "Áo nữ",
+      "description": ""
+    },
+    {
+      "id": 4,
+      "name": "Áo thun hồng nữ có nơi",
+      "price": "130.000",
+      "status": "Hàng tồn kho",
+      "image": "https://i.imgur.com/Wu4dk3j.png",
+      "category": "Áo nữ",
+      "description": ""
+    },
+    {
+      "id": 5,
+      "name": "Áo sơ mi trắng nam",
+      "price": "130.000",
+      "status": "Hàng tồn kho",
+      "image": "https://i.imgur.com/YS4fRbe.png",
+      "category": "Áo nam",
+      "description": ""
+    },
+    {
+      "id": 6,
+      "name": "Áo sơ mi đen nam",
+      "price": "220.000",
+      "status": "Hàng mới",
+      "image": "https://i.imgur.com/2QJO2Jb.png",
+      "category": "Áo nam",
+      "description": ""
+    },
+    {
+      "id": 7,
+      "name": "Áo thun nam POLO thiết kế vải cá sấu cotton cao cấp ngắn tay chuẩn form cực lịch lãm AT39CC",
+      "price": "165.000",
+      "status": "Hàng mới",
+      "image": "https://i.imgur.com/ktYx33i.png",
+      "category": "Áo nam",
+      "description": ""
+    },
+    {
+      "id": 8,
+      "name": "Áo thun local brand By Unispace kiểu HongKong",
+      "price": "330.000",
+      "status": "Hàng mới",
+      "image": "https://i.imgur.com/kqL2yg2.png",
+      "category": "Áo nam",
+      "description": ""
+    },
+    {
+      "id": 9,
+      "name": "Áo Thun nữ Tay Ngắn In Hình Quả Dâu Thời Trang",
+      "price": "110.000",
+      "status": "Hàng tồn kho",
+      "image": "https://i.imgur.com/QNkm5RI.png",
+      "category": "Áo nữ",
+      "description": ""
+    },
+    {
+      "id": 10,
+      "name": "Áo Unisex - In 5D chữ No War phông tay lỡ cực đẹp",
+      "price": "90.000",
+      "status": "Hàng tồn kho",
+      "image": "https://i.imgur.com/X9TIJnK.png",
+      "category": "Áo nam",
+      "description": ""
+    },
+    {
+      "id": 11,
+      "name": "Áo thun nam POLO thiết kế vải cá sấu cotton cao cấp ngắn tay chuẩn form cực lịch lãm AT39CC",
+      "price": "170.000",
+      "image": "https://i.imgur.com/K48ZnOA.png",
+      "category": "Áo nữ",
+      "description": "",
+      "status": "Hàng mới"
+    },
+    {
+      "id": 12,
+      "name": "Áo thun nữ crotop",
+      "price": "180.000",
+      "image": "https://i.imgur.com/BK45u94.png",
+      "category": "Áo nữ",
+      "description": "",
+      "status": "Hàng tồn kho"
+    },
+    {
+      "id": 13,
+      "name": "Áo thun trẻ em màu tím",
+      "price": "230.000",
+      "image": "https://i.imgur.com/cnsegQv.png",
+      "category": "Áo trẻ em",
+      "description": "",
+      "status": "Hàng tồn kho"
+    },
+    {
+      "id": 14,
+      "name": "Áo sơ mi trẻ em ",
+      "price": "115.000",
+      "image": "https://i.imgur.com/zCnlxrH.png",
+      "category": "Áo trẻ em",
+      "description": "",
+      "status": "Hàng tồn kho"
+    },
+    {
+      "id": 15,
+      "name": "Áo thun nam xanh",
+      "price": "160.000",
+      "status": "Hàng tồn kho",
+      "image": "https://i.imgur.com/WBYb0eV.png",
+      "category": "Áo nam",
+      "description": ""
+    },
+    {
+      "id": 16,
+      "name": "Áo thun trẻ em màu hồng hình con gấu",
+      "price": "230.000",
+      "image": "https://i.imgur.com/1Olqngj.png",
+      "category": "Áo trẻ em",
+      "description": "",
+      "status": "Hàng mới"
+    },
+    {
+      "id": 17,
+      "name": "Áo thun nam POLO thiết kế vải cá sấu cotton cao cấp ngắn tay chuẩn form cực lịch lãm AT39CC",
+      "price": "110.000",
+      "image": "https://i.imgur.com/PwWnzK8.png",
+      "category": "Áo nữ",
+      "description": "",
+      "status": "Hàng tồn kho"
+    },
+    {
+      "id": 18,
+      "name": "Áo thun nike trắng cho trẻ",
+      "price": "110.000",
+      "status": "Hàng mới",
+      "category": "Áo trẻ em",
+      "image": "https://i.imgur.com/ljcmuFK.png"
+    },
+    {
+      "id": 19,
+      "name": "Áo thun trẻ em Truekid 2023",
+      "price": "150.000",
+      "status": "Hàng mới",
+      "category": "Áo trẻ em",
+      "image": "https://i.imgur.com/O8fAH8b.png"
+    },
+    {
+      "id": 20,
+      "name": "SHEIN EZwear Áo nữ Khối Màu Giải trí",
+      "price": "200.000",
+      "status": "Hàng mới",
+      "category": "Áo nữ",
+      "image": "https://i.imgur.com/pLpbvkW.png"
+    },
+    {
+      "id": 21,
+      "name": "Áo thun nam xanh nhạt chữ hàn ",
+      "price": "150.000",
+      "status": "Hàng tồn kho",
+      "category": "Áo nam",
+      "image": "https://i.imgur.com/OOV5ssl.png"
+    },
+    {
+      "id": 22,
+      "name": "Áo Thun Nữ Tay Dài Lệch Vai K249",
+      "price": "150.000",
+      "status": "Hàng mới",
+      "category": "Áo nữ",
+      "image": "https://i.imgur.com/f2liZuq.png"
+    },
+    {
+      "id": 23,
+      "name": "Áo thun MARVEL Craft Logo Graphic",
+      "price": "150.000",
+      "status": "Hàng mới",
+      "category": "Áo nam",
+      "image": "https://i.imgur.com/KXZhLrB.png"
+    }
+  ],
+  "contacts": [
+    {
+      "name": "tr",
+      "email": "tranvantri200227@gmail.com",
+      "message": "ádsadsa",
+      "time": "10:40   2/3/2023",
+      "id": 1
+    },
+    {
+      "name": "Nguyễn Xuân Trường",
+      "email": "nguyenxuantruong2002@gmail.com",
+      "message": "Khi nào shop mở cửa lại ạ",
+      "time": "12:29   2/3/2023",
+      "id": 2
+    },
+    {
+      "name": "Nguyen Van B",
+      "email": "nguyenvanb@gmail.com",
+      "message": "Shop bán đồ đẹp quá",
+      "time": "12:29   2/3/2023",
+      "id": 3
+    },
+    {
+      "name": "Bùi Công Anh",
+      "email": "buiconganh@gmail.com",
+      "message": "shop bán đồ rẻ thế!! lần sau tôi ủng hộ tiếp \n",
+      "time": "12:30   2/3/2023",
+      "id": 4
+    },
+    {
+      "name": "Bui Hoàng Minh",
+      "email": "buihoangminh@gmail.com",
+      "message": "cho em xin voucher giảm giá đi shop ơi!!\n",
+      "time": "12:31   2/3/2023",
+      "id": 5
+    },
+    {
+      "name": "Trần Quốc Huy",
+      "email": "tranquochuy@gmail.com",
+      "message": "Hàng của em khi nào có vậy ạ.",
+      "time": "12:32   2/3/2023",
+      "id": 6
+    }
+  ],
+  "user": [
+    {
+      "name": "Trần Văn Trí",
+      "email": "tranvantri270802@gmai.com",
+      "phone": "0387653312",
+      "birthdate": "2002-08-27",
+      "password": "tranvantri",
+      "time": "2/3/2023",
+      "id": 1
+    },
+    {
+      "name": "Nguyễn Xuân Trường",
+      "email": "nguyenxuantrung",
+      "phone": "08755236978",
+      "birthdate": "2000-01-15",
+      "password": "nguyenxuantruong",
+      "time": "2/3/2023",
+      "id": 2
+    }
+  ],
+  "blog": [
+    {
+      "id": 1,
+      "title": "Ra mắt các áo nam",
+      "description": "Sau một thời gian im lặng thì giờ đây shop đã ra nhiều sản phẩm với nhiều màu sắc độc đáo, tạo sự thích thú đối với người dùng\n",
+      "image": "https://cdn.hpdecor.vn/wp-content/uploads/2022/01/aristino.jpg"
+    },
+    {
+      "id": 2,
+      "title": "POST TITLE",
+      "description": "Some quick example text to build on the card title and make up the bulk of the card's content.",
+      "image": "https://www.rough.vn/Content/Images/images/images/%E1%BA%A3nh%20c%E1%BB%ADa%20h%C3%A0ng/N%E1%BB%99i%20th%E1%BA%A5t%20b%C3%AAn%20trong%20Rough%20Th%E1%BB%9Di%20trang%20nam%20v%E1%BA%A3i%20%C4%91%C5%A9i.jpg"
+    },
+    {
+      "id": 3,
+      "title": "POST TITLE",
+      "description": "Some quick example text to build on the card title and make up the bulk of the card's content.",
+      "image": "https://kabuto.vn/wp-content/uploads/2020/12/cac-kieu-ao-phong-dep.jpg"
+    }
+  ],
+  "oder": [
+    {
+      "nameproduct": "- Áo thun name xám có cổ\n- Áo thun nữ màu vàng cute\n",
+      "price": 270,
+      "fullname": "Trần Văn Trí",
+      "phone": "0387653312",
+      "address": "135 Tân Bình TP.HCM",
+      "time": "2/3/2023 - 09:45:08",
+      "id": 1
+    },
+    {
+      "nameproduct": "- Áo thun trẻ em hình chiếc xe\n- Áo thun name xám có cổ\n- Áo thun nam POLO thiết kế vải cá sấu cotton cao cấp ngắn tay chuẩn form cực lịch lãm AT39CC\n- Áo thun nam xanh\n- Áo sơ mi trẻ em \n",
+      "price": 700,
+      "fullname": "Nguyễn Xuân Trường",
+      "phone": "0258996548",
+      "address": "157 Tân Bình",
+      "time": "2/3/2023 - 12:48:44",
+      "id": 2
+    },
+    {
+      "nameproduct": "- Áo thun local brand By Unispace kiểu HongKong\n- Áo thun nữ crotop\n- SHEIN EZwear Áo nữ Khối Màu Giải trí\n- Áo thun trẻ em Truekid 2023\n",
+      "price": 860,
+      "fullname": "Bùi Quốc Khánh",
+      "phone": "0875563369",
+      "address": "B5/23 Q.8 đường Nguyễn Văn Linh\n ",
+      "time": "2/3/2023 - 12:49:56",
+      "id": 3
+    },
+    {
+      "nameproduct": "- Áo thun hồng nữ có nơi\n- Áo thun nữ màu vàng cute\n",
+      "price": 270,
+      "fullname": "Nguyễn  Hoàng Minh",
+      "phone": "0366874112",
+      "address": "12/58/66 Q.6 TPHCM\n",
+      "time": "2/3/2023 - 12:51:12",
+      "id": 4
+    },
+    {
+      "nameproduct": "- Áo thun nữ màu vàng cute\n- Áo thun name xám có cổ\n",
+      "price": 270,
+      "fullname": "Cao Gia Lợi",
+      "phone": "0566987441",
+      "address": "20/4 ấp 2 xã Bình Mỹ Củ Chi",
+      "time": "2/3/2023 - 12:54:57",
+      "id": 6
+    },
+    {
+      "nameproduct": "- Áo thun name xám có cổ\n",
+      "price": 130,
+      "fullname": "Đào",
+      "phone": "0258874321",
+      "address": "Lê Thị Hà q12",
+      "time": "2/1/2023 - 18:53:01",
+      "id": 7
+    }
+  ]
+}
